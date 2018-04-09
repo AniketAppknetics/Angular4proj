@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class CourseComponent implements OnInit {
 
   constructor() { }
-
   //hello
+  //this is not happen again right
   ngOnInit() {
   }
 
